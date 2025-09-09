@@ -116,6 +116,9 @@ For the navigation node we decided to read 4 variables from the csv file x and y
 
 To load the waypoints.csv file, we used "getParam" in the node navigation to get the path of the file, which is set in the launch file as a parameter, and then the file is opened using ifstream.
 
+For the code, check the zip folder [second_project](second_project.zip)
+
 ## Final Considerations
 First Project Mark: 3.0/3.0
-Second Project MArk: 3.0/3.0
+
+Second Project Mark: 3.0/3.0
