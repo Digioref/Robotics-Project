@@ -3,5 +3,5 @@
 ## Authors
 This Project was developed by:
 - Francesco Di Giore
-- Federico de Introna  (federicodeintrona)  
+- Federico de Introna  (@federicodeintrona)  
 - Carlo Arnone
