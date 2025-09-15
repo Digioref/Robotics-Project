@@ -95,7 +95,7 @@ The method publishTFOdometry takes in input the new pose (x_next, y_next, theta_
 - stamp, which is the time, which the input value is assigned to;
 - header.frame_id, which is the parent's reference frame, so it is set to "odom";
 - child_frame_id, which is the robot's reference frame, so it is set to "base_link";
-- 
+
 Then, we set odomTranform's translation according to the values in input and we created a Quaternion, setting it using the provided theta. Finally, we set odomTransform's rotation using the Quaternion and, using the transform_broadcaster, the odomTransform message is published.
 
 In the publishOdometry, we did similar steps. We created two messages, an Odom message and an Odometry message. The Odom message is the custom one, so we set its features (x, y, theta, timestamp) using the values in input. While, for the Odometry message, we proceeded in the same way as for the tf aforementioned, adding the velocity, linear and angular, set according to the input values. Finally, both messages are published using the corresponding publisher.
