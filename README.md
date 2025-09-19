@@ -1,11 +1,5 @@
 # Robotics: Project
 
-## Authors
-This Project was developed by:
-- Francesco Di Giore [@Digioref](https://github.com/Digioref)
-- Federico de Introna [@federicodeintrona](https://github.com/federicodeintrona)  
-- Carlo Arnone [@CarloArnone](https://github.com/CarloArnone)
-
 ## Introduction
 This is the repository for the two Projects of Robotics in the academic year 2022/2023 at Polytechnic of Milan.
 
@@ -122,3 +116,9 @@ For the code, check the zip folder [second_project](second_project.zip)
 First Project Mark: 3.0/3.0
 
 Second Project Mark: 3.0/3.0
+
+## Authors
+This Project was developed by:
+- Francesco Di Giore [@Digioref](https://github.com/Digioref)
+- Federico de Introna [@federicodeintrona](https://github.com/federicodeintrona)  
+- Carlo Arnone [@CarloArnone](https://github.com/CarloArnone)
